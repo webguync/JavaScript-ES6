@@ -1,0 +1,17 @@
+#test{
+  background-color:#336699;
+  font-weight:bold;
+  font-family:arial, helvetica, sans-serif;
+  color:#ffffff;
+  padding:10px;
+  width:50%;
+  text-align:center;
+}
+
+.name{
+  color:orange;
+}
+
+.age{
+  color:yellow;
+}
